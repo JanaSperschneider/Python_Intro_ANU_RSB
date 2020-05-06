@@ -2,4 +2,6 @@ Python notebooks and example data for bioinformatics-bash-python course run for 
 
 This material has adapted but is based on lessons take from: https://swcarpentry.github.io/python-novice-inflammation/
 
-The notebook was originally authored by Sylvain Foret and Kevin Murray (kdmurray91) but has been modified
+Parts of the notebook were originally authored by Sylvain Foret and Kevin Murray (kdmurray91). 
+
+Author contributions are from Jana Sperschneider, Benjamin Schwessinger, Megan McDonald and Kevin Murray.
